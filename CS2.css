@@ -1,0 +1,101 @@
+header{
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 1em;
+}
+h1{
+  font-family: Arial, sans-serif;
+  color: white;
+  font-size: 30px;
+}
+h2{
+  font-family: Arial, sans-serif;
+  color: black;
+  font-size: 50px;
+  margin-left: 360px;
+  margin-right: 200px;
+}
+h3{
+  font-family: Arial, sans-serif;
+  font-size: 25px;
+  text-align: left;
+  margin-left: 380px;
+}
+h4{
+  font-family: Arial, sans-serif;
+  font-size: 25px;
+  text-align: left;
+  margin-left: 380px;
+}
+h5{
+  font-family: Arial, sans-serif;
+  font-size: 25px;
+  text-align: left;
+  margin-left: 380px;
+}
+h6{
+  font-family: Arial, sans-serif;
+  font-size: 25px;
+  text-align: left;
+  margin-left: 380px;
+}
+h7{
+  font-family: Arial, sans-serif;
+  font-size: 25px;
+  text-align: left;
+  margin-left: 380px;
+}
+h8{
+  font-family: Arial, sans-serif;
+  font-size: 25px;
+  text-align: left;
+  margin-left: 380px;
+}
+h9{
+  font-family: Arial, sans-serif;
+  font-size: 25px;
+  text-align: left;
+  margin-left: 380px;
+}
+h10{
+  font-family: Arial, sans-serif;
+  font-size: 25px;
+  text-align: left;
+  margin-left: 380px;
+}
+h11{
+  font-family: Arial, sans-serif;
+  font-size: 25px;
+  text-align: left;
+  margin-left: 380px;
+}
+.paragrath{
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  margin-left: 380px;
+  margin-right: 420px;
+}
+.paragrath2{
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+}
+.text2{
+  font-size: 14px;
+}
+.divider{
+  margin-left: 360px;
+  margin-right: 295px;
+}
+.img{
+  margin-left: 380px;
+  margin-right: 420px;
+  margin-bottom: 40px;
+  <br>
+}
+.list {
+  font-family: Arial, sans-serif;
+  text-align: left;
+  font-size: 17px;
+  margin-left: 360px;
+}
