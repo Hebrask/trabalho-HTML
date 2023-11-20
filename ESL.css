@@ -1,0 +1,50 @@
+h1{
+  font-family: Arial, sans-serif;
+  text-align: center;
+  color: white;
+  font-size: 30px;
+  margin-left: 450px;
+  margin-right: 450px;
+}
+h2{
+  font-family: Arial, sans-serif;
+  color: black;
+  font-size: 60px;
+  margin-left: 360px;
+  margin-right: 200px;
+}
+h3{
+  font-family: Arial, sans-serif;
+  color: black;
+  text-align: left;
+  font-size: 20px ;
+  margin-left: 380px;
+}
+header{
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 1em;
+}
+.paragrath {
+  font-family: Arial, sans-serif;
+  text-align: left;
+  margin-left: 380px;
+  margin-right: 420px;
+  font-size: 20px;
+}
+.list{
+  font-family: Arial, sans-serif;
+  text-align: left;
+  font-size: 17px;
+  margin-left: 380px;
+}
+.CS {
+  margin-left: 380px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.text2{
+  font-size: 15px;
+}
+
